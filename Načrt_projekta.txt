@@ -1,0 +1,8 @@
+Naslov projekta: ?
+
+Člani skupine: Nejc Planinšek, Matic Lang, Rok Kebelj
+
+Cilj projekta: Cilj tega projekta je spoznati okolje za razvoj strežnikov in njihovo uporabo na sistemu Linux. Naredili bomo sistem "LAMP" (mi smo izbrali alternativo in bomo delali z NodeJS in MongoDB) in z njim gostili
+strežnik za našo projetkno nalogo. Dodali bomo dodatne funkcije kot so varnost, zaščita, avtomatizirano varnostno kopiranje (cron), samodejni ponovni zagov ob izpadu (heartbeat) in izdelali bomo prikrojen namestitveni paket. 
+
+Razvojna orodja: NodeJS, VisualStudio Code, Atom, MongoDB, bash(Console)
